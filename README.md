@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/mdkdinesh2503/" target="_blank"> Dinesh Kumar M </a></h1>
-<h3 align="center">&numsp;&numsp;&numsp;&numsp; <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Full+Stack+Developer+%3A)"/> </h3>
+<h3 align="right">&numsp;&numsp;&numsp;&numsp; <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Full+Stack+Developer+%3A)"/> </h3>
 
 - 🌱 Learning Never Stops 🚀
 
