@@ -41,9 +41,9 @@
 <h3 align="left">Tools :</h3>
 <div align="left">
 <img alt="NPM" src="https://img.shields.io/badge/NPM-CB3837.svg?style=for-the-badge&logo=NPM&logoColor=white"/>
+<img alt="GitHub" src="https://img.shields.io/badge/GitHub-white.svg?style=for-the-badge&logo=GitHub&logoColor=black"/>
 <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white"/>
-<img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"/>
-<img alt="bitbucket" src="https://img.shields.io/badge/bitbucket-%23563D7C.svg?style=for-the-badge&logo=bitbucket&logoColor=white"/>
+<img alt="bitbucket" src="https://img.shields.io/badge/bitbucket-%231572B6.svg?style=for-the-badge&logo=bitbucket&logoColor=white"/>
 </div><br/>
 <!-- Tools section ends -->
 
