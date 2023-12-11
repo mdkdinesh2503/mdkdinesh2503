@@ -31,6 +31,21 @@
 <h3 align="left">Learning :</h3>
 <div align="left">
 <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</div>
+
+<h3 align="left">Tools :</h3>
+<div align="left">
+<img alt="NPM" src="https://img.shields.io/badge/NPM-%23563D7C.svg?style=for-the-badge&logo=NPM&logoColor=white"/>
+<img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=CB3837"/>
+<img alt="NPM" src="https://img.shields.io/badge/NPM-%23563D7C.svg?style=for-the-badge&logo=NPM&logoColor=CB3837"/>
+<img alt="NPM" src="https://img.shields.io/badge/NPM-%23563D7C.svg?style=for-the-badge&logo=NPM&logoColor=CB3837"/>
+
+<!-- ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
+![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=Heroku&color=430098)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
+![](https://img.shields.io/badge/Tools-bitbucket-informational?style=flat&logo=bitbucket&logoColor=white)
+![](https://img.shields.io/badge/Tools-github-informational?style=flat&logo=github&logoColor=white) -->
 </div><br/>
 
 <table>
