@@ -9,6 +9,7 @@
 
 - 😄 Pronouns: He/His
 
+<!-- Social link section starts -->
 <h3 align="left">Connect with me:</h3>
 <div align="left">
   <a href="https://www.linkedin.com/in/mdkdinesh2503/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -16,7 +17,9 @@
   <a href="https://www.instagram.com/mdk_here_official/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://www.facebook.com/people/Dinesh-Kumar/pfbid02nqDxuJZQZp3ST8XfNDhiiT5qt6BobeAbysc8yNWiusLmJ4YFaFoo9su8XXFYUSjtl/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-%230077B5?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 </div>
+<!-- Social link section ends -->
 
+<!-- Skills section starts -->
 <h3 align="left">Languages Known :</h3>
 <div align="left">
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -32,29 +35,29 @@
 <div align="left">
 <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </div>
+<!-- Skills section ends -->
 
+<!-- Tools section starts -->
 <h3 align="left">Tools :</h3>
 <div align="left">
-<img alt="NPM" src="https://img.shields.io/badge/NPM-%23563D7C.svg?style=for-the-badge&logo=NPM&logoColor=white"/>
-<img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=CB3837"/>
-<img alt="NPM" src="https://img.shields.io/badge/NPM-%23563D7C.svg?style=for-the-badge&logo=NPM&logoColor=CB3837"/>
-<img alt="NPM" src="https://img.shields.io/badge/NPM-%23563D7C.svg?style=for-the-badge&logo=NPM&logoColor=CB3837"/>
-
-<!-- ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
-![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=Heroku&color=430098)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
-![](https://img.shields.io/badge/Tools-bitbucket-informational?style=flat&logo=bitbucket&logoColor=white)
-![](https://img.shields.io/badge/Tools-github-informational?style=flat&logo=github&logoColor=white) -->
+<img alt="NPM" src="https://img.shields.io/badge/NPM-CB3837.svg?style=for-the-badge&logo=NPM&logoColor=white"/>
+<img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white"/>
+<img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"/>
+<img alt="bitbucket" src="https://img.shields.io/badge/bitbucket-%23563D7C.svg?style=for-the-badge&logo=bitbucket&logoColor=white"/>
 </div><br/>
+<!-- Tools section ends -->
 
+<!-- Statics section starts -->
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=mdkdinesh2503&show_icons=true&theme=dark&locale=en" alt="mdkdinesh2503" /></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdkdinesh2503&show_icons=true&theme=dark&locale=en&layout=compact" alt="mdkdinesh2503" /></td>
   </tr>
 </table>
+<!-- Statics section ends -->
 
+<!-- Contribution section starts -->
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdkdinesh2503&theme=dark" alt="mdkdinesh2503" /></p>
-  </div>
+</div>
+<!-- Contribution section ends -->
