@@ -18,6 +18,7 @@
 <h2 align="center"> About Me - 🦅 </h2>
 <p> I am a passionate developer, that has the desire to sharp your current skills and master the most important programming languages. </p>
 <div align="center">
+  <img src="https://img.shields.io/github/stars/mdkdinesh2503/impressive-profile-readmes?color=gold&style=for-the-badge" alt="mdk Github Stars" />&numsp;
   <img src="https://badges.pufler.dev/years/mdkdinesh2503?color=blue&style=for-the-badge" alt="mdk Github Years" />&numsp;
   <img src="https://komarev.com/ghpvc/?username=mdkdinesh2503&color=blue&style=for-the-badge" alt="mdk Github Views" />&numsp;
   <img src="https://badges.pufler.dev/repos/mdkdinesh2503?color=blue&style=for-the-badge" alt="mdk Github Repository" />
@@ -72,7 +73,7 @@
   <img alt="Eclipse" src="https://img.shields.io/badge/eclipse-purple.svg?style=for-the-badge&logo=eclipse&logoColor=white"/> <br/>
   <img alt="mysql" src="https://img.shields.io/badge/mysql-%231572B6.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img alt="oraacle" src="https://img.shields.io/badge/oracle-CB3837?style=for-the-badge&logo=oracle&logoColor=white"/>
-  <img alt="Vs Code" src="https://img.shields.io/badge/vscode-%231572B6.svg?style=for-the-badge&logo=vscode&logoColor=white"/>
+  <img alt="Vs Code" src="https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
 </div>
 <br/>
 
@@ -82,7 +83,7 @@
 <!-- Github Statics section starts -->
 <h2 align="center"> My Github Stats - 📣 </h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdkdinesh2503&show_icons=true&theme=dark&locale=en" alt="mdkdinesh2503" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mdkdinesh2503&show_icons=true&bg_color=0D1117&locale=en" alt="mdkdinesh2503" />
 </p>
 
 ---
@@ -91,7 +92,7 @@
 <!-- Programming Statics section starts -->
 <h2 align="center"> My Programming Languages Stats - 🌀 </h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdkdinesh2503&show_icons=true&theme=dark&locale=en&layout=compact" alt="mdkdinesh2503" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdkdinesh2503&show_icons=true&bg_color=0D1117&locale=en&layout=compact" alt="mdkdinesh2503" />
 </p>
 
 ---
@@ -100,11 +101,20 @@
 <!-- Github Contribution section starts -->
 <h2 align="center"> My Github Contribution Stats - 📦 </h2>
 <div align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdkdinesh2503&theme=dark" alt="mdkdinesh2503" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdkdinesh2503&bg_color=0D1117&bg_color=0D1117" alt="mdkdinesh2503" />
 </div>
 
 ---
-<!-- Other Github Contribution section ends -->
+<!-- Github Contribution section ends -->
+
+<!-- Github Activity section starts -->
+<h2 align="center"> My Github Activity Graph - 📦 </h2>
+<div align="center">
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=mdkdinesh2503&custom_title=Dinesh%20Kumar%20M's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="mdkdinesh2503" />
+</div>
+
+---
+<!-- Github Activity section ends -->
 
  <p align="center"> Last Updated on 18/12/2023 🕥00:03:31 UTC </p>
 
