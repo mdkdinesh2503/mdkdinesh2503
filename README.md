@@ -66,7 +66,7 @@
 <h2 align="center">Tools - 🔭</h2>
 <div align="center">
   <img alt="NPM" src="https://img.shields.io/badge/NPM-CB3837.svg?style=for-the-badge&logo=NPM&logoColor=white"/>
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-white.svg?style=for-the-badge&logo=GitHub&logoColor=black"/>
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-121013.svg?style=for-the-badge&logo=GitHub&logoColor=white"/>
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white"/>
   <img alt="bitbucket" src="https://img.shields.io/badge/bitbucket-%231572B6.svg?style=for-the-badge&logo=bitbucket&logoColor=white"/>
   <img alt="Eclipse" src="https://img.shields.io/badge/eclipse-purple.svg?style=for-the-badge&logo=eclipse&logoColor=white"/> <br/>
@@ -106,6 +106,6 @@
 ---
 <!-- Other Github Contribution section ends -->
 
- <p align="center"> Last Updated on 09/11/2022 00:27:14 UTC </p>
+ <p align="center"> Last Updated on 18/12/2023 🕥00:03:31 UTC </p>
 
  ---
