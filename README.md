@@ -116,6 +116,6 @@
 <br/>
 <!-- Github Activity section ends -->
 
- <h3 align="right"> Created with 🤍 by <a href="https://github.com/mdkdinesh2503/">Dinesh Kumar M</a>. </h3>
+ <h3 align="right">- Created with 🤍 by <a href="https://github.com/mdkdinesh2503/">Dinesh Kumar M</a>. </h3>
 
  ---
