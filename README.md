@@ -7,7 +7,7 @@
 
 - 👨‍💻 Check out my personal portfolio : **<a href="https://mdkdinesh2503.github.io/mdk/" target="_blank">Portfolio</a>**
 
-- 📄 Check out my Resume : **<a href="https://mdkdinesh2503.github.io/mdk/images/Dinesh_Resume.pdf" target="_blank">Resume</a>**
+- 🗂 Check out my Resume : **<a href="https://mdkdinesh2503.github.io/mdk/images/Dinesh_Resume.pdf" target="_blank">Resume</a>**
 
 - 😄 Pronouns: He/His
 
