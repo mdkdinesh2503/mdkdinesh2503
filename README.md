@@ -22,7 +22,8 @@
 <div align="center">
   <img src="https://badges.pufler.dev/years/mdkdinesh2503?color=blue&style=for-the-badge" alt="mdk Github Years" />&numsp;
   <img src="https://komarev.com/ghpvc/?username=mdkdinesh2503&color=blue&style=for-the-badge" alt="mdk Github Views" />&numsp;
-  <img src="https://badges.pufler.dev/repos/mdkdinesh2503?color=blue&style=for-the-badge" alt="mdk Github Repository" />
+  <img src="https://badges.pufler.dev/repos/mdkdinesh2503?color=blue&style=for-the-badge" alt="mdk Github Repository" />&numsp;
+  <img src="https://komarev.com/ghpvc/?username=mdkdinesh2503&label=Visitors&color=0e75b6&style=for-the-badge" alt="mdk Github Repository" />
 </div>
 
 ---
@@ -31,6 +32,7 @@
 <!-- Social link section starts -->
 <h2 align="center">Connect with me - 📬 </h2>
 <div align="center">
+  <a href="..."><img alt="Website" src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/mdkdinesh2503/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:mdkdinesh2503@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.instagram.com/mdk_here_official/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
@@ -57,8 +59,9 @@
 ---
 <h2 align="center">Learning - 🤹</h2>
 <div align="center">
-  <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img alt="Mongo DB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img alt="Express Js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
+  <img alt="React Js" src="https://img.shields.io/badge/react.js-61DBFB?style=for-the-badge&logo=react&logoColor=%23007ACC"/>
 </div>
 
 ---
