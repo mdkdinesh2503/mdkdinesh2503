@@ -6,7 +6,7 @@
 
 - 🌱 Learning Never Stops 🚀
 
-- 💭 Ask me about **Java, HTML, CSS, JavaScript, DBMS, TypeScript, Node Js, Angular.**
+- 💭 Ask me about **Java, HTML, CSS, JavaScript, Sql, MEAN Stack, TypeScript, NodeJs, AngularJs, UI/UX.**
 
 - 👨‍💻 Check out my personal portfolio : **<a href="https://mdkdinesh2503.github.io/mdk/" target="_blank">Portfolio</a>**
 
@@ -54,13 +54,13 @@
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/>
   <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=Java&logoColor=white"/>
+  <img alt="Mongo DB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img alt="Express Js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
 </div>
 
 ---
 <h2 align="center">Learning - 🤹</h2>
 <div align="center">
-  <img alt="Mongo DB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img alt="Express Js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
   <img alt="React Js" src="https://img.shields.io/badge/react.js-61DBFB?style=for-the-badge&logo=react&logoColor=%23007ACC"/>
 </div>
 
@@ -74,10 +74,13 @@
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-121013.svg?style=for-the-badge&logo=GitHub&logoColor=white"/>
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white"/>
   <img alt="bitbucket" src="https://img.shields.io/badge/bitbucket-%231572B6.svg?style=for-the-badge&logo=bitbucket&logoColor=white"/>
-  <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white"/> <br/>
-  <img alt="mysql" src="https://img.shields.io/badge/mysql-%231572B6.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img alt="oraacle" src="https://img.shields.io/badge/oracle-CB3837?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img alt="Eclipse IDE" src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white"/> 
+  <img alt="mysql" src="https://img.shields.io/badge/mysql-%231572B6.svg?style=for-the-badge&logo=mysql&logoColor=white"/><br/>
+  <img alt="oracle" src="https://img.shields.io/badge/oracle-CB3837?style=for-the-badge&logo=oracle&logoColor=white"/>
   <img alt="Vs Code" src="https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
+  <img alt="MongoDb Atlas" src="https://img.shields.io/badge/MongoDb%20Atlas-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=Figma&logoColor=white"/>
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </div>
 <br/>
 
