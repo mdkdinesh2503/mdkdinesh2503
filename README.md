@@ -57,12 +57,6 @@
 </div>
 
 ---
-<h2 align="center">Learning - 🤹</h2>
-<div align="center">
-  <img alt="React Js" src="https://img.shields.io/badge/react.js-61DBFB?style=for-the-badge&logo=react&logoColor=%23007ACC"/>
-</div>
-
----
 <!-- Skills section ends -->
 
 <!-- Tools section starts -->
@@ -94,6 +88,15 @@
 
 ---
 <!-- Cloud Database section ends -->
+
+<!-- Learnings section ends -->
+<h2 align="center">Learning - 🤹</h2>
+<div align="center">
+  <img alt="React Js" src="https://img.shields.io/badge/react.js-61DBFB?style=for-the-badge&logo=react&logoColor=%23007ACC"/>
+</div>
+
+---
+<!-- Learnings section ends -->
 
 <!-- Github Statics section starts -->
 <h2 align="center"> My Github Stats - 📣 </h2>
