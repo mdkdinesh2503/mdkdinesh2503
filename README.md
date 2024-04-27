@@ -68,15 +68,14 @@
 <!-- Tools section starts -->
 <h2 align="center">Tools - 🔭</h2>
 <div align="center">
-  <img alt="NPM" src="https://img.shields.io/badge/NPM-CB3837.svg?style=for-the-badge&logo=NPM&logoColor=white"/>
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-121013.svg?style=for-the-badge&logo=GitHub&logoColor=white"/>
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white"/>
-  <img alt="bitbucket" src="https://img.shields.io/badge/bitbucket-%231572B6.svg?style=for-the-badge&logo=bitbucket&logoColor=white"/>
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-121013.svg?style=for-the-badge&logo=GitHub&logoColor=white"/>
+  <img alt="Bitbucket" src="https://img.shields.io/badge/bitbucket-%231572B6.svg?style=for-the-badge&logo=bitbucket&logoColor=white"/>
   <img alt="Eclipse IDE" src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white"/> 
-  <img alt="mysql" src="https://img.shields.io/badge/mysql-%231572B6.svg?style=for-the-badge&logo=mysql&logoColor=white"/><br/>
-  <img alt="oracle" src="https://img.shields.io/badge/oracle-CB3837?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img alt="Mysql" src="https://img.shields.io/badge/mysql-%231572B6.svg?style=for-the-badge&logo=mysql&logoColor=white"/><br/>
+  <img alt="Oracle" src="https://img.shields.io/badge/oracle-CB3837?style=for-the-badge&logo=oracle&logoColor=white"/>
   <img alt="Vs Code" src="https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
-  <img alt="MongoDb Atlas" src="https://img.shields.io/badge/MongoDb%20Atlas-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img alt="MongoDb Compass" src="https://img.shields.io/badge/MongoDb%20Compass-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=black"/>
   <img alt="Figma" src="https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=Figma&logoColor=white"/>
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </div>
@@ -84,6 +83,17 @@
 
 ---
 <!-- Tools section ends -->
+
+<!-- Cloud Database section starts -->
+<h2 align="center">Cloud Database - 🔭</h2>
+<div align="center">
+  <img alt="MongoDb Atlas" src="https://img.shields.io/badge/MongoDb%20Atlas-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=black"/>
+  <img alt="Firebase" src="https://img.shields.io/badge/firebase-F7DF1E?style=for-the-badge&logo=firebase&logoColor=black"/>
+</div>
+<br/>
+
+---
+<!-- Cloud Database section ends -->
 
 <!-- Github Statics section starts -->
 <h2 align="center"> My Github Stats - 📣 </h2>
