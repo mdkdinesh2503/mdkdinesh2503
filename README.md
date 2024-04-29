@@ -54,6 +54,7 @@
   <img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/>
   <img alt="Node Js" src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/> 
   <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=Java&logoColor=white"/>
+  <img alt="JSON" src="https://img.shields.io/badge/Json-339933?style=for-the-badge&logo=Json&logoColor=white"/>
 </div>
 
 ---
