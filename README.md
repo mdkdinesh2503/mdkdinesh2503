@@ -4,6 +4,8 @@
 
 <h3 align="right"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=-+Full+Stack+Developer+%3A)"/> </h3>
 
+<img src ="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align = right height = 150 width = 500/>
+
 - 🌱 Learning Never Stops 🚀
 
 - 👨‍💻 Check out my personal portfolio : **<a href="https://mdkdinesh2503.github.io/mdk/" target="_blank">Portfolio</a>**
@@ -83,7 +85,6 @@
 <h2 align="center">Cloud Database - 🔭</h2>
 <div align="center">
   <img alt="MongoDb Atlas" src="https://img.shields.io/badge/MongoDb%20Atlas-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=black"/>
-  <img alt="Firebase" src="https://img.shields.io/badge/firebase-F7DF1E?style=for-the-badge&logo=firebase&logoColor=black"/>
 </div>
 <br/>
 
@@ -94,6 +95,7 @@
 <h2 align="center">Learning - 🤹</h2>
 <div align="center">
   <img alt="React Js" src="https://img.shields.io/badge/react.js-61DBFB?style=for-the-badge&logo=react&logoColor=%23007ACC"/>
+  <img alt="Firebase" src="https://img.shields.io/badge/firebase-F7DF1E?style=for-the-badge&logo=firebase&logoColor=black"/>
 </div>
 
 ---
