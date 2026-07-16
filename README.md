@@ -7,7 +7,7 @@
 </h1>
 
 <h3 align="center">
-Full Stack Developer • Backend Enthusiast • Problem Solver
+Software Engineer • Backend Engineer • Java • Spring Boot • Rust • Distributed Systems
 </h3>
 
 <p align="center">
@@ -67,7 +67,6 @@ Full Stack Developer • Backend Enthusiast • Problem Solver
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-F7DF1E?style=for-the-badge&logo=expressjs&logoColor=black"/>
 <img src="https://img.shields.io/badge/REST APIs-green?style=for-the-badge&logo=rest&logoColor=white"/>
 <img src="https://img.shields.io/badge/graphQL-E0234E?style=for-the-badge&logo=grapgQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
@@ -104,22 +103,26 @@ Full Stack Developer • Backend Enthusiast • Problem Solver
 
 ---
 
-# 💼 Experience
+# 💼 Production Engineering Highlights
 
-### 🚀 Aretedge Innovations Pvt Ltd — Associate Software Engineer (Aug 2024 – May 2026)
-- Owned the end-to-end design and implementation of the Challenge Module, including backend workflows, API orchestration, business logic implementation, and database design.
-- Architected leaderboard allocation and ranking systems supporting score computation, rank updates, and concurrency-sensitive aggregation workflows.
-- Developed and maintained backend services powering tournaments, matchmaking, rewards, and gaming platform functionality serving 20K+ active users.
-- Engineered scalable microservices using Rust, Java, and NestJS, enabling modular deployment and maintainable service-oriented architecture.
-- Implemented REST APIs, GraphQL integrations, and gRPC services to support low-latency communication and cross-service interoperability.
-- Designed and optimized PostgreSQL and DynamoDB data models for transactional processing and real-time read-heavy workloads.
-- Enhanced backend performance through Redis caching strategies, rate limiting mechanisms, and API gateway integration patterns.
-- Implemented event-driven workflows and concurrency-aware reward processing systems to improve reliability and consistency across distributed services.
-- Collaborated with cross-functional teams to deliver production-ready software features across backend and platform components.
+Worked on a multiplayer gaming platform serving 20K+ registered users.
+
+Backend Engineering
+- Designed and implemented the Challenge Module from database design to production deployment
+- Built 20+ production APIs using Java, Rust, Spring Boot, and NestJS
+- Developed leaderboard, tournament, reward distribution, and casual game services
+- Designed PostgreSQL schemas, DynamoDB tables, GraphQL schemas, and gRPC services
+- Optimized leaderboard performance using Redis caching, TTL strategies, and query optimization
+
+Production Support
+- Monitored production deployments using Docker, Jenkins, and ArgoCD
+- Investigated production incidents, log analysis, and backend bug fixes during releases
+- Participated in architecture discussions, code reviews, Agile ceremonies, QA support, and production releases
 
 ---
 
-### 👨‍💻 Aspire Systems — Frontend Developer (Intern -> Trainee) (Sep 2022 - Jun 2024)
+### 👨‍💻 Aspire Systems — Graduate Engineer (Intern -> Trainee) (Sep 2022 - Jun 2024)
+
 - Completed enterprise-focused training in Java, Angular, Node.js, MySQL, software development practices, and application architecture fundamentals.
 - Integrated Angular-based user interfaces with Java backend services and REST APIs following enterprise SDLC processes and coding standards.
 - Contributed to feature implementation, debugging, testing, and UI enhancements for internal enterprise applications.
@@ -130,32 +133,50 @@ Full Stack Developer • Backend Enthusiast • Problem Solver
 # 🚀 Projects
 
 ### 🎟 Personal Expense Tracker | Next.js, Supabase
-- Built a full-stack expense management application with real-time data synchronization and direct database
-integration using Supabase.
+
+- Built a full-stack expense management application with real-time data synchronization and direct database integration using Supabase.
 - Implemented expense tracking, categorization, reporting, and time-based aggregation features.
 - Developed responsive user interfaces and API-driven workflows for managing personal financial data.
+
+Live Demo: <a href="https://mdkdinesh2503.netlify.app"> mdk-expense.vercel.app </a>
+ | GitHub: <a href="https://github.com/mdkdinesh2503/finance-tracker"> github.com/mdkdinesh2503/finance-tracker </a>
 
 ---
 
 ### 🎟 Student Management System | Angular, Java, Node.js, MySQL
-- Developed an academic management platform supporting attendance, examinations, fee management, and student
-administration workflows.
+
+- Developed an academic management platform supporting attendance, examinations, fee management, and student administration workflows.
 - Implemented role-based access control (RBAC), and relational database design for secure data access.
 - Built modular frontend and backend components to support maintainable application development.
+
+Live Demo: <a href="https://mdkdinesh2503.github.io/SMS-V1"> mdkdinesh2503.github.io/SMS-V1 </a>
+ | GitHub (Angular): <a href="https://github.com/mdkdinesh2503/SMS-V2"> github.com/mdkdinesh2503/SMS-V2 </a>
+ | GitHub (Java): <a href="https://github.com/mdkdinesh2503/SMS-V3"> github.com/mdkdinesh2503/SMS-V3 </a>
 
 ---
 
 ### 🎟 E-Commerce System | Java, Spring Boot, JavaScript
+
 - Developed e-commerce workflows using layered backend architecture and modular service separation principles.
 - Implemented product management, order processing, and business logic components using Spring Boot.
 - Designed backend services and APIs supporting extensible application functionality.
 
+
+Live Demo: <a href="https:/mdkdinesh2503.github.io/Ecom-V1"> mdkdinesh2503.github.io/Ecom-V1 </a>
+ | GitHub (Spring Boot): <a href="https://github.com/mdkdinesh2503/Ecom-V2"> github.com/mdkdinesh2503/Ecom-V2
+ </a>
+ 
 ---
 
 ### 🎟 Travel Agency Platform | Angular, Node.js, MongoDB
+
 - Developed travel booking and management workflows using REST APIs and responsive user interfaces.
 - Built backend services for travel data management and customer booking operations.
 - Implemented modular application components supporting maintainability and future feature expansion.
+
+Live Demo: <a href="https://mdkdinesh2503.github.io/Travel-V1"> mdkdinesh2503.github.io/Travel-V1 </a>
+ | GitHub: <a href="https://github.com/mdkdinesh2503/Travel-V2"> github.com/mdkdinesh2503/Travel-V2
+ </a>
 
 ---
 
