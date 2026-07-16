@@ -105,6 +105,8 @@ Software Engineer • Backend Engineer • Java • Spring Boot • Rust • Dis
 
 # 💼 Production Engineering Highlights
 
+### 👨‍💻 Aretedge Innovations Pvt. Ltd. — Associate Software Engineer (Aug 2024 - May 2026)
+
 Worked on a multiplayer gaming platform serving 20K+ registered users.
 
 Backend Engineering
